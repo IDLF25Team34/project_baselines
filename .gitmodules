@@ -1,0 +1,9 @@
+[submodule "arctic"]
+	path = arctic
+	url = https://github.com/zc-alexfan/arctic
+[submodule "JointTransformer"]
+	path = JointTransformer
+	url = https://github.com/kabouzeid/JointTransformer
+[submodule "ObjDexEnvs"]
+	path = ObjDexEnvs
+	url = https://github.com/cypypccpy/ObjDexEnvs
